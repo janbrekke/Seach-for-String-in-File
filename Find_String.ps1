@@ -9,7 +9,7 @@
   or if there are more than one instances.
   
   .LINK
-  https://github.com/janbrekke/Seach-for-String-in-File
+  https://github.com/janbrekke/Search-for-String-in-File
 #>
 
 $STRING = Read-Host -Prompt 'Enter word to search for'
